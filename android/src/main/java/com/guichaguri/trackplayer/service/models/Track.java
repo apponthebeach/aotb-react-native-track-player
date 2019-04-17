@@ -104,7 +104,7 @@ public class Track {
         MediaMetadataCompat.Builder builder = new MediaMetadataCompat.Builder();
 
         builder.putString(METADATA_KEY_TITLE, title);
-        builder.putString(METADATA_KEY_ARTIST, title);
+        builder.putString(METADATA_KEY_ARTIST, artist);
         builder.putString(METADATA_KEY_ALBUM, album);
         builder.putString(METADATA_KEY_DATE, date);
         builder.putString(METADATA_KEY_GENRE, genre);
