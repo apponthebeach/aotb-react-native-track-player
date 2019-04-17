@@ -1,17 +1,22 @@
 {
-  "name": "react-native-track-player",
-  "version": "1.0.0",
+  "name": "aotb-react-native-track-player",
+  "version": "1.2.1",
   "description": "A fully fledged audio module created for music apps",
   "contributors": [
     {
-      "name": "David Chavez",
+      "name": "Creator - David Chavez",
       "email": "david@dcvz.io",
       "url": "http://dcvz.io"
     },
     {
-      "name": "Guilherme Chaguri",
+      "name": "Creator - Guilherme Chaguri",
       "email": "david@dcvz.io",
       "url": "http://guichaguri.com/"
+    },
+    {
+      "name": "Forker  - Axel de Sainte Marie",
+      "email": "appnotie@gmail.com",
+      "url": "http://aotb.xyz/"
     }
   ],
   "keywords": [
