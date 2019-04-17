@@ -1,22 +1,17 @@
 {
-  "name": "aotb-react-native-track-player",
-  "version": "1.2.1",
+  "name": "react-native-track-player",
+  "version": "1.0.0",
   "description": "A fully fledged audio module created for music apps",
   "contributors": [
     {
-      "name": "Creator - David Chavez",
+      "name": "David Chavez",
       "email": "david@dcvz.io",
       "url": "http://dcvz.io"
     },
     {
-      "name": "Creator - Guilherme Chaguri",
+      "name": "Guilherme Chaguri",
       "email": "david@dcvz.io",
       "url": "http://guichaguri.com/"
-    },
-    {
-      "name": "Forker  - Axel de Sainte Marie",
-      "email": "appnotie@gmail.com",
-      "url": "http://aotb.xyz/"
     }
   ],
   "keywords": [
@@ -36,10 +31,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apponthebeach/aotb-react-native-track-player.git"
+    "url": "https://github.com/react-native-kit/react-native-track-player.git"
   },
   "bugs": {
-    "url": "https://github.com/apponthebeach/aotb-react-native-track-player/issues"
+    "url": "https://github.com/react-native-kit/react-native-track-player/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.57.0",
