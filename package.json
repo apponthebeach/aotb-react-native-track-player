@@ -34,15 +34,15 @@
     "windows"
   ],
   "license": "Apache-2.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/react-native-kit/react-native-track-player.git"
-  },
+  "repository": "https://github.com/apponthebeach/aotb-react-native-track-player.git",
   "bugs": {
     "url": "https://github.com/react-native-kit/react-native-track-player/issues"
   },
   "peerDependencies": {
-    "react-native": ">=0.57.0",
-    "react": ">=16.5.0"
-  }
+    "react": ">=16.5.0",
+    "react-native": ">=0.57.0"
+  },
+  "main": "index.js",
+  "author": "Axel de Sainte Marie <appnotie@gmail.com>",
+  "private": false
 }
